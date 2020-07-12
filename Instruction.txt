@@ -1,0 +1,5 @@
+for execute a program type
+	find_error.
+
+aftre it executed successful you can enter one 
+digit numeric value for get curresponting error
